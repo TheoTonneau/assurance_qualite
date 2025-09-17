@@ -19,8 +19,8 @@
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <sonar.host.url>${env.SONAR_HOST_URL}</sonar.host.url>
-        <sonar.login>${env.SONAR_TOKEN}</sonar.login>
+        <sonar.host.url>http://54.184.184.228/</sonar.host.url>
+        <sonar.login>sqa_b21a3a84c83884c0e68fdc5d4beb47e64c1c9125</sonar.login>
 
     </properties>
 
