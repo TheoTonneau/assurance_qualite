@@ -5,6 +5,8 @@
 .metadata
 bin/
 tmp/
+do_not_send/
+
 *.tmp
 *.bak
 *.swp

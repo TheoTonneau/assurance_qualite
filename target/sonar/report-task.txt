@@ -1,0 +1,6 @@
+projectKey=com.bibliotheque:bibliotheque-app
+serverUrl=http://54.184.184.228
+serverVersion=9.9.8.100196
+dashboardUrl=http://54.184.184.228/dashboard?id=com.bibliotheque%3Abibliotheque-app
+ceTaskId=AZlXjlePaOJDYQQVNSJ0
+ceTaskUrl=http://54.184.184.228/api/ce/task?id=AZlXjlePaOJDYQQVNSJ0
